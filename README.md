@@ -1,4 +1,6 @@
-# DCDT
+# Breakthrough in Fine-Grained Video Anomaly Detection on Highway: New Benchmark and Model
+Our paper has been accepted by the journal Expert Systems with Applications!
+For further details, please refer to [here](https://doi.org/10.1016/j.eswa.2025.129127).
 This is the official project website of our paper: *Breakthrough in Fine-Grained Video Anomaly
 Detection on Highway: New Benchmark and Model*.
 We introduce a new lagre-scale benchmark and a novel model to advance research in video anomaly detection.
