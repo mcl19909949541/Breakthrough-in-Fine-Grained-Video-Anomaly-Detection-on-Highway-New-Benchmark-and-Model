@@ -25,7 +25,7 @@ We propose a new multi-modal training framework for accurate anomaly detection. 
 ##  Contact
 For any queries or potential collaborations, please contact us at: [Email Me](mengchenlin0108@163.com)
 
-## :newspaper:Citation
+##  Citation
 
 If you find our work useful in your research, please consider citing: 
 
